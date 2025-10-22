@@ -5,5 +5,9 @@
 
 /* Utilidades */
 @import url(./utilidades/componentes.css);
+
 /* Página Inicial */
 @import url(./home/introducao.css);
+
+/* Bicicletas */
+@import url(./bicicletas/bicicletas-lista.css);
