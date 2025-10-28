@@ -14,6 +14,9 @@
 @import url(./bicicletas/bicicletas-lista.css);
 @import url(./bicicletas/bicicletas.css);
 
+/* Bicicleta */
+@import url(./bicicleta/bicicleta.css);
+
 /* Tecnologia */
 @import url(./home/tecnologia.css);
 
@@ -25,6 +28,8 @@
 
 /* Seguros */
 @import url(./seguros/seguros.css);
+@import url(./seguros/vantagens.css);
+@import url(./seguros/perguntas.css);
 
 /* Termos */
 @import url(./termos/termos.css);
