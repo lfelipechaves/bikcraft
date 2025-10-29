@@ -1,11 +1,12 @@
 @import url(./global/global.css);
-@import url(./utilidades/tipografia.css);
-@import url(./utilidades/cores.css);
 @import url(./global/header.css);
 @import url(./global/footer.css);
 
 /* Utilidades */
 @import url(./utilidades/componentes.css);
+@import url(./utilidades/tipografia.css);
+@import url(./utilidades/cores.css);
+@import url(./utilidades/formulario.css);
 
 /* Página Inicial */
 @import url(./home/introducao.css);
@@ -16,6 +17,7 @@
 
 /* Bicicleta */
 @import url(./bicicleta/bicicleta.css);
+@import url(./bicicleta/seguro.css);
 
 /* Tecnologia */
 @import url(./home/tecnologia.css);
@@ -30,6 +32,10 @@
 @import url(./seguros/seguros.css);
 @import url(./seguros/vantagens.css);
 @import url(./seguros/perguntas.css);
+
+/* Contato */
+@import url(./contato/contato.css);
+@import url(./contato/lojas.css);
 
 /* Termos */
 @import url(./termos/termos.css);
