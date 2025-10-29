@@ -81,18 +81,18 @@
   margin-bottom: 8px;
 }
 
-.bicicleta-ficha li {
+.bicicleta-fichas li {
   padding: 4px 0;
   display: flex;
   justify-content: space-between;
-  border-bottom: 1px solid var(--cor-11);
+  border-bottom: 1px solid var(--cor-10);
 }
 
-.bicicleta-ficha li:last-child {
+.bicicleta-fichas li:last-child {
   border-bottom: none;
 }
 
-.bicicleta-ficha span {
+.bicicleta-fichas span {
   color: var(--cor-6);
 }
 
